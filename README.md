@@ -1,1 +1,1 @@
-# my first react/redux.typescript app
+# my first react/redux/typescript app
