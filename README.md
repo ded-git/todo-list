@@ -1,1 +1,1 @@
-# radency-task2
+# my first react/redux.typescript app
